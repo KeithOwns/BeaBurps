@@ -1,0 +1,162 @@
+COMIC STRIP IMAGE-GENERATION PROMPTS
+"Bea Burps" — Cells 2, 3, 6, 7, 8, 9
+=====================================
+
+These prompts are written to match the established art style and
+characters from the already-completed panels (cell_1_pre_arm_edit.png,
+cell_4.png, cell_5.png) and the reference portraits in /portraits.
+
+GLOBAL STYLE GUIDE (include in every prompt)
+---------------------------------------------
+- Style: clean digital cartoon/comic illustration, bold black outlines,
+  warm flat-cel shading, slightly stylized proportions (same style as
+  cell_1_pre_arm_edit.png, cell_4.png, and cell_5.png).
+- Panel format: square comic panel with a small white numbered box in
+  the top-left corner containing the cell number (e.g. "2", "3", "6", etc.),
+  matching the numbering style seen in cells 1, 4, and 5.
+- All left/right directions are from the AUDIENCE's point of view.
+- Sound effects / exclamations should be rendered as bold, colorful
+  comic-style lettering with an outline, matching the "CHOMP! GULP!
+  CCRRUNCH!" and "SLURP! SLURP! SLURP! *GLUG-GLUG*" treatments in
+  cells 4 and 5.
+
+CHARACTER REFERENCE SHEET
+---------------------------------------------
+- Moxie: young woman, shoulder-length straight orange/red hair with side
+  part, green eyes, light freckles/blush, wearing a maroon/burgundy
+  short-sleeve t-shirt and light blue jeans (see
+  portraits/Moxie_CharacterPortrait.png).
+- Keith: young man, short tousled blond hair, blue eyes, wearing a
+  green short-sleeve t-shirt and tan/khaki pants, brown shoes (see
+  cell_1_pre_arm_edit.png).
+- Bea: small white West Highland Terrier (Westie) mix with a fluffy
+  coat, dark button eyes, pink harness, perky triangular ears, and a
+  fluffy upright tail (see portraits/Bea_Portrait.jpg and
+  portraits/Bea_RearPortrait.jpg).
+
+SETTING REFERENCE
+---------------------------------------------
+- Living room: dark brown leather couch, warm amber lamp light, potted
+  plants, a TV on a low stand to the left, a side table with a framed
+  photo (see cell_1_pre_arm_edit.png).
+- Kitchen: light wood cabinets, white tile floor, a dishwasher, food and
+  water bowls on a textured mat (see cell_4.png and cell_5.png).
+- Hallway/transition space connects the living room (audience-left) to
+  the kitchen (audience-right).
+
+=====================================
+CELL 2
+=====================================
+Narrative: Keith burps, which wakes Bea (her ears become erect). Moxie
+looks unimpressed.
+
+Prompt:
+"Square comic panel, numbered '2' in a small white box in the top-left
+corner, same cartoon style and living room setting as cell_1 (Moxie on
+the left side of a brown leather couch, Bea in the middle, Keith on the
+right). Keith (blond hair, green t-shirt) has his head tilted back,
+mouth wide open, mid-burp, with a bold comic sound effect 'BUUURRP!' in
+orange/yellow lettering above him, his soda can still in hand. Bea (the
+small white Westie, previously curled up asleep between them) is now
+startled awake, eyes wide open, both ears snapped fully erect and alert,
+head lifted off the cushion. Moxie (orange-haired woman, maroon shirt)
+glances sideways toward Keith with a flat, unimpressed/deadpan
+expression, one eyebrow slightly raised, arms still relaxed. Same warm
+lamp-lit color palette, couch, plants, and TV as cell_1."
+
+=====================================
+CELL 3
+=====================================
+Narrative: Bea is seen walking (audience-rightward) toward the kitchen.
+
+Prompt:
+"Square comic panel, numbered '3' in a small white box in the top-left
+corner, same cartoon style as the other panels. Side-view (profile)
+shot of Bea, the small white fluffy Westie with a pink harness, trotting
+briskly from audience-left toward audience-right, tail up and wagging,
+ears perked, mid-stride with front paw lifted, heading toward a doorway
+that opens into the kitchen (visible light wood cabinets and white tile
+floor in the background, matching cell_4 and cell_5). The living room
+couch and warm lamp light are faintly visible at the left edge of the
+frame, establishing the transition from living room to kitchen. Add a
+couple of small motion lines behind Bea to emphasize her brisk walk."
+
+=====================================
+CELL 6
+=====================================
+Narrative: Bea is seen walking (audience-leftward) back towards the
+living room.
+
+Prompt:
+"Square comic panel, numbered '6' in a small white box in the top-left
+corner, same cartoon style as the other panels. Side-view (profile) shot
+of Bea, the small white fluffy Westie with a pink harness, trotting from
+audience-right toward audience-left, tail up and swaying, satisfied
+expression, small wet droplet marks near her muzzle (from drinking),
+mid-stride with front paw lifted, leaving the kitchen (light wood
+cabinets and white tile floor with food and water bowls visible behind
+her, matching cell_4 and cell_5) and heading back toward the living room,
+where the edge of the brown leather couch and warm lamp light are
+visible at the left edge of the frame. Add a couple of small motion
+lines behind Bea to emphasize her brisk walk."
+
+=====================================
+CELL 7
+=====================================
+Narrative: Bea is seated between Moxie and Keith on the couch. With a
+pleased look on her face, Bea is gazing up at Moxie. With a mildly
+puzzled look on her face, Moxie is looking down at Bea.
+
+Prompt:
+"Square comic panel, numbered '7' in a small white box in the top-left
+corner, same cartoon style and living room setting as cell_1 (Moxie on
+the left side of the brown leather couch, Bea in the middle, Keith on
+the right, same warm lamp-lit color palette, plants, and TV). Bea, the
+small white fluffy Westie with a pink harness, is now sitting upright
+between Moxie and Keith, head tilted up toward Moxie with a pleased,
+content, slightly smug expression (soft smile, relaxed eyes). Moxie
+(orange-haired woman, maroon shirt) is looking down at Bea with a
+mildly puzzled expression — one eyebrow raised, head slightly tilted,
+a small questioning look on her face. Keith (blond hair, green t-shirt)
+remains seated on the right, casually watching the TV, soda can in hand,
+unaware of the exchange."
+
+=====================================
+CELL 8
+=====================================
+Narrative: Bea burps in Moxie's face.
+
+Prompt:
+"Square comic panel, numbered '8' in a small white box in the top-left
+corner, same cartoon style and living room setting as the previous
+panel (Moxie on the left side of the brown leather couch, Bea in the
+middle, Keith on the right). Close-up framing on Bea and Moxie: Bea, the
+small white fluffy Westie, has her head tilted up and mouth open mid-burp
+directly toward Moxie's face, with a bold comic sound effect 'BUUURP!'
+in orange/yellow lettering with small wavy 'stink lines' radiating from
+Bea's mouth toward Moxie. Moxie (orange-haired woman, maroon shirt)
+recoils slightly, eyes squeezed shut or wide with shock, head pulled
+back, a grossed-out/disgusted expression on her face, perhaps waving a
+hand in front of her nose. Keith remains in the background on the right,
+oblivious, still watching TV."
+
+=====================================
+CELL 9
+=====================================
+Narrative: Rolling her eyes, Moxie returns her gaze back to the TV.
+Looking very pleased with herself, Bea is gazing up at Keith now.
+Looking amused, Keith gives Bea a 'thumbs up'.
+
+Prompt:
+"Square comic panel, numbered '9' in a small white box in the top-left
+corner, same cartoon style and living room setting as the previous
+panels (Moxie on the left side of the brown leather couch, Bea in the
+middle, Keith on the right, warm lamp-lit color palette, plants, and TV).
+Moxie (orange-haired woman, maroon shirt) has turned her head back
+toward the TV with an exaggerated eye-roll expression (eyes rolled
+upward, slight smirk), arms crossed or relaxed back into the couch. Bea,
+the small white fluffy Westie, has turned her head away from Moxie and
+is now gazing up at Keith with a very pleased, self-satisfied grin
+(eyes half-closed, content smile, chest puffed slightly). Keith (blond
+hair, green t-shirt) looks down at Bea with an amused grin and is giving
+her a 'thumbs up' gesture with one hand, his soda can in the other hand."
